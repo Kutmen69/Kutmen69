@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Luka Gongliashvili
-- 👀 I’m interested in integrating code into hardware
-- 🌱 I’m currently learning C++ for arduino development
-
-
+- 🎓 Electrical & Electronics Engineering student at Ilia State University
+- 🔬 Interested in embedded systems, control systems, and microcontrollers
+- 💡 Currently working with Arduino, ESP32, and circuit design
+- 🌱 Learning c++,integral calculus and deeper electronics concepts
